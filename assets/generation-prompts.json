@@ -1,0 +1,21 @@
+{
+  "tool": "Built-in image_gen",
+  "assets": [
+    {
+      "key": "teacher-garden",
+      "prompt": "Use case: illustration-story. Asset type: decorative background illustration for a heartfelt personal Happy Teachers Day photo showcase. Create a landscape 3:2 fine watercolor illustration on warm ivory handmade paper: an open book, vintage books with deep green covers, delicate little daisies, loose pencils, stars and tiny burgundy hearts, intertwined flowering vines. Objects arranged organically along bottom edge and left corner with lots of blank ivory space in center and upper half. Soft botanical storybook ink and watercolor style, dusty rose, sage green, warm ochre palette, quiet romantic handmade feeling. No people, no words, no letters, no logos, no frames."
+    },
+    {
+      "key": "rainbow-garden",
+      "prompt": "Use case: illustration-story. Asset type: background illustration for a joyful mother-and-child photo showcase. Landscape 3:2 watercolor and colored-pencil drawing on warm ivory textured paper: a large playful muted rainbow arcing at upper right, tiny whimsical flowering trees, daisies, floating pastel hearts, little fluffy clouds and sun, a dreamy garden with an inviting playful feeling. Inspired by rainbow playground scenery. Dusty pink, golden yellow, soft blue, sage. Airy composition with negative space at center for a real photo overlay. No people, no text, no words, no logos, no UI."
+    },
+    {
+      "key": "rose-garden",
+      "prompt": "Use case: illustration-story. Asset type: decorative botanical background for a romantic wife and family photo showcase. Landscape 3:2 hand-painted watercolor illustration on warm ivory handmade paper, elegant deep burgundy and dusty rose red roses, sage-green leafy stems, loose drifting petals, very small outlined hearts, little gold starlight details. Flowers flow from bottom left and upper right edges with very spacious blank ivory center for photo and readable text overlay. Fine ink details, soft painterly floral romance, vintage pressed-flower journal feeling. No people, no text, no words, no logos, no UI."
+    },
+    {
+      "key": "desert-dream",
+      "prompt": "Use case: illustration-story. Asset type: decorative scenic background for the final photograph in a personal celebration website, inspired by a desert adventure. Landscape 3:2 warm watercolor illustration on ivory textured paper: sweeping golden sand dunes across the bottom third, pale blue open sky fading naturally to ivory at top, fine wind trails, a small gold sun, tiny flying birds, scattered little dusty-rose hearts, dreamy and expansive. Spacious quiet center and upper half for photo overlay. Light painted colors, no people, no vehicles, no text, no logos, no frames."
+    }
+  ]
+}

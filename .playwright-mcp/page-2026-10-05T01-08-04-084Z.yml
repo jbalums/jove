@@ -1,0 +1,193 @@
+- generic [active] [ref=e1]:
+  - link "Skip to the photo story" [ref=e2] [cursor=pointer]:
+    - /url: "#story"
+  - banner [ref=e3]:
+    - link "Back to the beginning" [ref=e4] [cursor=pointer]:
+      - /url: "#intro"
+      - generic [ref=e7]: A LITTLE LOVE LETTER
+    - generic [ref=e8]: OCTOBER 05 · TEACHERS’ DAY
+  - navigation "Photo story chapters" [ref=e9]:
+    - link "Introduction" [ref=e10] [cursor=pointer]:
+      - /url: "#intro"
+      - generic: For you
+    - link "Hard-working teacher" [ref=e11] [cursor=pointer]:
+      - /url: "#hard-working"
+      - generic: The teacher
+    - link "Fun mom" [ref=e12] [cursor=pointer]:
+      - /url: "#fun-mom"
+      - generic: The mama
+    - link "Loving wife" [ref=e13] [cursor=pointer]:
+      - /url: "#loving-wife"
+      - generic: The love
+    - link "Final dedication" [ref=e14] [cursor=pointer]:
+      - /url: "#ending"
+      - generic: Always you
+  - main [ref=e15]:
+    - generic [aria-hidden]: ♥
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - paragraph [ref=e19]: TO OUR FAVORITE TEACHER
+          - heading [level=1] [ref=e20]:
+            - text: HappyTeachers’
+            - emphasis [ref=e21]: Day.
+          - paragraph [ref=e24]: A beautiful teacher.A wonderful mama. Our greatest love.
+          - link "A little story about you" [ref=e25] [cursor=pointer]:
+            - /url: "#hard-working"
+            - text: A little story about you
+            - generic [aria-hidden] [ref=e26]: ↓
+        - figure "the beautiful heart behind it all" [ref=e27]:
+          - button "View the introductory portrait in full size" [ref=e29] [cursor=pointer]:
+            - img "A smiling teacher in a cream dress and green ceremonial sash, beside a bookcase" [ref=e30]
+            - text: ↗
+          - generic [ref=e35]: today is allabout you ♡
+      - generic [ref=e37]:
+        - generic [ref=e38]: TEACHER · MAMA · WIFE · OUR EVERYTHING
+        - generic [ref=e39]:
+          - text: FOLLOW THE LITTLE THREAD
+          - generic [aria-hidden] [ref=e40]: ↓
+    - generic [ref=e42]:
+      - figure "a busy day, a loving heart 01 / 02" [ref=e43]:
+        - button "View the first hard-working photo" [ref=e45] [cursor=pointer]:
+          - img "Mom smiling with her little boy during a car ride" [ref=e46]
+          - text: ↗
+        - generic [ref=e47]:
+          - text: a busy day, a loving heart
+          - generic [ref=e48]: 01 / 02
+      - generic [ref=e49]:
+        - paragraph [ref=e50]: 01 / THE HARD-WORKING ONE
+        - heading [level=2] [ref=e51]:
+          - text: So much heart.In
+          - emphasis [ref=e52]: everything
+          - text: you do.
+        - paragraph [ref=e53]: For every lesson you prepare, every little mind you inspire, and every day you give your best. We see the love behind it all.
+        - paragraph [ref=e54]: and we’re so proud of you.
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - paragraph [ref=e60]: THE LOVE THAT KEEPS GOING
+          - heading [level=2] [ref=e61]:
+            - text: Even withyour hands full,
+            - emphasis [ref=e62]: you give more.
+          - paragraph [ref=e63]: You carry so many things, and still make room for a cuddle, a smile, and a little more love.
+          - paragraph [ref=e64]: our everyday kind of hero ♡
+        - figure "our everyday kind of hero 02 / 02" [ref=e65]:
+          - button "View the second hard-working photo" [ref=e67] [cursor=pointer]:
+            - img "Mom holding her smiling little boy in a bright indoor space" [ref=e68]
+            - text: ↗
+          - generic [ref=e69]:
+            - text: our everyday kind of hero
+            - generic [ref=e70]: 02 / 02
+      - generic [aria-hidden] [ref=e71]: heart.
+    - generic [ref=e73]:
+      - figure "our favorite kind of sunshine 01 / 02" [ref=e74]:
+        - button "View the first fun mom photo" [ref=e76] [cursor=pointer]:
+          - img "Mom and her little boy posing playfully in front of a colorful rainbow garden display" [ref=e77]
+          - text: ↗
+        - generic [ref=e78]:
+          - text: our favorite kind of sunshine
+          - generic [ref=e79]: 01 / 02
+        - generic [ref=e80]: a little silly,a lot of love!
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: 02 / THE FUN MAMA
+        - heading [level=2] [ref=e84]:
+          - text: You makeordinary days
+          - emphasis [ref=e85]: colorful.
+        - paragraph [ref=e86]: The silly faces. The little adventures. The laughter that makes everything feel lighter. You make childhood a beautiful place to be.
+        - paragraph [ref=e87]: life is brighter with you.
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: THE LITTLE MOMENTS ARE THE BIG ONES
+          - heading [level=2] [ref=e94]:
+            - text: A happy mama.A happy little
+            - emphasis [ref=e95]: world.
+          - paragraph [ref=e96]: One day, these little moments will be the memories we treasure most. Thank you for filling them with so much joy.
+          - paragraph [ref=e97]: more giggles, more adventures.
+        - figure "little moments, big happiness 02 / 02" [ref=e98]:
+          - button "View the second fun mom photo" [ref=e100] [cursor=pointer]:
+            - img "Mom laughing as she holds her little boy in front of the rainbow display" [ref=e101]
+            - text: ↗
+          - generic [ref=e102]:
+            - text: little moments, big happiness
+            - generic [ref=e103]: 02 / 02
+      - generic [aria-hidden] [ref=e104]: sunshine.
+    - generic [ref=e106]:
+      - figure "together is our favorite place 01 / 03" [ref=e107]:
+        - button "View the family photo by the lake" [ref=e109] [cursor=pointer]:
+          - img "A family selfie beside a peaceful lake surrounded by green hills" [ref=e110]
+          - text: ↗
+        - generic [ref=e111]:
+          - text: together is our favorite place
+          - generic [ref=e112]: 01 / 03
+      - generic [ref=e113]:
+        - paragraph [ref=e114]: 03 / THE LOVING WIFE
+        - heading [level=2] [ref=e115]:
+          - text: Whereverwe go, you
+          - emphasis [ref=e116]: are home.
+        - paragraph [ref=e117]: In the quiet moments and the beautiful adventures, there is no place we’d rather be than right beside you.
+        - paragraph [ref=e118]: my favorite person. always.
+    - generic [ref=e122]:
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - paragraph [ref=e125]: A LITTLE LOVE, JUST FOR YOU
+          - heading [level=2] [ref=e126]:
+            - text: All the flowers.All the love.
+            - emphasis [ref=e127]: All for you.
+          - paragraph [ref=e128]: You deserve to be celebrated, on the special days and all the ordinary ones in between.
+          - paragraph [ref=e129]: you’ll always be my favorite.
+        - figure "a little bouquet, a whole lot of love 02 / 03" [ref=e130]:
+          - button "View the photo with flowers and the stroller" [ref=e132] [cursor=pointer]:
+            - img "Mom holding a bouquet of red roses beside her little boy in his stroller" [ref=e133]
+            - text: ↗
+          - generic [ref=e134]:
+            - text: a little bouquet, a whole lot of love
+            - generic [ref=e135]: 02 / 03
+      - generic [aria-hidden] [ref=e136]: my love.
+    - generic [ref=e138]:
+      - figure "our little family, our greatest love 03 / 03" [ref=e139]:
+        - button "View the photo of mom and child with roses by the pool" [ref=e141] [cursor=pointer]:
+          - img "Mom and her smiling little boy with a bouquet of roses beside a swimming pool" [ref=e142]
+          - text: ↗
+        - generic [ref=e143]:
+          - text: our little family, our greatest love
+          - generic [ref=e144]: 03 / 03
+        - generic [ref=e145]: so luckyto love you ♡
+      - generic [ref=e147]:
+        - paragraph [ref=e148]: THE HEART OF OUR LITTLE FAMILY
+        - heading [level=2] [ref=e149]:
+          - text: Look at allthe love
+          - emphasis [ref=e150]: you’ve grown.
+        - paragraph [ref=e151]: A family full of warmth. A little boy full of smiles. A life full of moments that mean everything.
+        - paragraph [ref=e152]: this is our kind of beautiful.
+    - generic [ref=e154]:
+      - generic [ref=e155]:
+        - paragraph [ref=e156]: AND THROUGH EVERY CHAPTER…
+        - heading [level=2] [ref=e157]:
+          - text: Keep being
+          - emphasis [ref=e158]: beautifully
+          - text: you.
+        - paragraph [ref=e159]: The teacher who inspires. The mama who makes us laugh. The wife we adore. The adventurous soul with so much life ahead.
+        - paragraph [ref=e160]: we love every version of you.
+      - figure "and all the adventures still ahead ♡" [ref=e161]:
+        - button "View the final desert adventure photo" [ref=e163] [cursor=pointer]:
+          - img "A smiling woman on a red quad bike against golden desert dunes and a blue sky" [ref=e164]
+          - text: ↗
+    - generic [ref=e166]:
+      - paragraph [ref=e170]: TODAY, AND EVERY DAY
+      - heading [level=2] [ref=e171]:
+        - text: Happy Teachers’ Day,
+        - emphasis [ref=e172]: our love.
+      - paragraph [ref=e173]: Thank you for all the ways you make our world beautiful.
+      - button "Sending you all our love" [ref=e174] [cursor=pointer]:
+        - text: Sending you all our love
+        - generic [aria-hidden] [ref=e175]: ♡
+      - status [ref=e176]
+      - link "Read our little story again" [ref=e177] [cursor=pointer]:
+        - /url: "#intro"
+        - text: Read our little story again
+        - generic [aria-hidden] [ref=e178]: ↑
+      - generic [ref=e179]:
+        - generic [ref=e180]: MADE OF LITTLE MOMENTS & A WHOLE LOT OF LOVE
+        - generic [ref=e181]: OCTOBER 05 ♡
+  - generic [ref=e183]: 01 / FOR YOU
